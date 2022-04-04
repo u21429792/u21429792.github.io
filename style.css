@@ -288,6 +288,7 @@ figure {
 img,
 svg {
   vertical-align: middle;
+  size: 10%
 }
 
 table {
@@ -588,7 +589,7 @@ progress {
 }
 
 .img-fluid {
-  max-width: 100%;
+  max-width: 10%;
   height: auto;
 }
 
